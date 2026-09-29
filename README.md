@@ -1,62 +1,89 @@
 # Nestor Gomez Artiles
 
-Hello, GitHub! 👋  
-I'm **Nestor Gomez Artiles**, a Computer Science student at **Brigham Young University–Idaho** (Minor in Mathematics). I’m interested in **backend/infrastructure engineering**, **cloud systems**, and **applied machine learning**.
+Hello, GitHub! 👋
+
+I'm **Nestor Gomez Artiles**, a Computer Science student at **Brigham Young University–Idaho**, graduating in **2027**. I'm interested in **cloud infrastructure, distributed systems, security engineering, and applied AI/ML**.
 
 ---
 
 ## About Me
 
-- 🎓 B.S. Computer Science @ BYU–Idaho (Minor in Mathematics), graduating **2027**
-- ☁️ I like building scalable systems: APIs, data models, auth, observability
-- 🤖 Interested in ML + infrastructure (MLOps / monitoring / forecasting)
-- 🌍 Originally from Gran Canaria (Canary Islands, Spain)
+- 🎓 B.S. Computer Science @ BYU–Idaho, graduating **2027**
+- ☁️ Interested in **AWS, cloud infrastructure, distributed systems, and automation**
+- 🤖 Interested in **AI/ML infrastructure and AI-assisted systems**
+- 🔐 Interested in **security engineering and secure systems**
+- 📊 4.0 GPA
+- 🌍 Originally from Gran Canaria, Canary Islands, Spain
 
 ---
 
-## What I’m Working On
+## What I've Worked On
 
-### Amazon (Intern) — Serverless Procurement + Forecasting
-- Built an end-to-end **serverless procurement & inventory tracking platform** on AWS  
-  (**API Gateway, Lambda (Python), DynamoDB, Cognito, S3/CloudFront**) to replace manual supply tracking.
-- Developed an **XGBoost forecasting model** to predict supply demand and improve planning accuracy.
+### Amazon Web Services (AWS) — Software Development Engineer Intern
 
-### Complaix EU (Founder) — EU AI Act Compliance & AI Governance
-- Building **Complaix EU**, a platform that turns AI governance into a repeatable workflow:  
-  **inventory → classification → documentation → audit-ready outputs**.
-- Focused on generating audit-ready deliverables (system descriptions, controls, logs/evidence pack).
+- Architected a **distributed human-in-the-loop system on AWS** to help isolate and resolve network device build failures.
+- Built a **React dashboard component** used by AWS network technicians to monitor device builds, review remediation results, and interact with build workflows.
+- Worked with AWS infrastructure engineers on **production-oriented tooling for large-scale network operations and device provisioning reliability**.
+- Worked with **AI-assisted failure classification, DynamoDB state management, operator controls, and automated remediation**.
 
----
+### Amazon — Serverless Infrastructure
 
-## Technologies & Tools
+- Designed and built a **serverless procurement system** using **S3, CloudFront, API Gateway, Lambda, DynamoDB, and Cognito**.
+- Replaced manual supply tracking with a scalable, data-driven platform.
 
-**Languages:** Python, C, C++, JavaScript  
-**Cloud:** AWS (Lambda, API Gateway, DynamoDB, Cognito, S3, CloudFront)  
-**ML/Data:** XGBoost, LSTM models, Monte Carlo simulation  
-**Web:** React, REST APIs  
-**Other:** Git, Linux basics
+### AI/ML Research
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
-</div>
+- Implemented and evaluated **LSTM-based sequential models in Python**, focusing on model performance, training convergence, and reproducibility.
+- Published research on **AI-powered music generation from sequential motion signals**.
 
 ---
 
-## Experience Highlights
+## Projects
 
-- **Amazon (Intern):** shipped a production-style AWS serverless system and integrated ML forecasting into planning workflows.
-- **Research (Lawrence Technological University):** implemented LSTM-based sequential models and used Monte Carlo simulation for extreme risk scenarios in financial time series.
-- **Complaix EU:** building a practical EU AI Act compliance workflow and outputs system.
+### 🤖 Real-Time Robotic Control System
+
+- Led a team building a real-time robotic control system in **C++**.
+- Optimized sensor-to-actuator latency.
+- Designed and built a 3D car prototype.
+
+### 🔐 BYU-Idaho Browser — Security & Storage
+
+- Performed security-focused code analysis of **origin isolation, StorageKey, cookies, IPC, sandboxing, and renderer boundaries**.
+- Investigated how security assumptions could be violated in browser systems.
+
+---
+
+## Technologies
+
+**Languages:** Python, C++, JavaScript, Java, SQL, .NET
+
+**Cloud & Infrastructure:** AWS, Lambda, DynamoDB, API Gateway, S3, CloudFront, Cognito, Docker, CI/CD, Linux
+
+**Systems:** Distributed Systems, Data Structures & Algorithms, Object-Oriented Design, Debugging
+
+**AI/ML:** XGBoost, TensorFlow, Scikit-learn, LSTM, Statistical Modeling, Monte Carlo Simulation
+
+**Web:** React, REST APIs
+
+---
+
+## Research
+
+**AI-Powered Music Generation from Sequential Motion Signals: A Study in LSTM-Based Modeling**
+
+International Journal of Intelligent Information Systems, 2025.
+
+---
+
+## Certifications
+
+- ☁️ AWS Certified Solutions Architect – Associate
+- 🤖 Harvard — Machine Learning and AI with Python
+- 🔐 Harvard — Cybersecurity Professional Certificate
 
 ---
 
 ## Links
 
-- LinkedIn: https://www.linkedin.com/in/nestorgomezartiles
+- [LinkedIn](https://www.linkedin.com/in/nestorgomezartiles/)
+- [GitHub](https://github.com/NestorXX-XX)
